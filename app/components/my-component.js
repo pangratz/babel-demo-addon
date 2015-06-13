@@ -1,0 +1,1 @@
+export { default } from 'babel-demo-addon/components/my-component';
